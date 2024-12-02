@@ -1,6 +1,6 @@
-## Images sentinel2 relevées
+## Images Sentinel-2 relevées
 
-|date|taux de couverture nuageuse (%)| Période |
+|Date|Taux de couverture nuageuse (%)| Période |
 |----|---------------------------|---------|
 | 2022-04-05  | 0.00224  | Printemps |
 | 2022-06-29  | 11.014241 |Printemps |
