@@ -1,4 +1,5 @@
 ## Images Sentinel-2 relevées
+(téléchargées depuis google earth engine, à voir si on prend effectivement celles-ci si Theia ne nous donne pas ce qu'on veut)
 
 |Date|Taux de couverture nuageuse (%)| Période |
 |----|---------------------------|---------|
