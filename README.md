@@ -147,7 +147,7 @@ map_tfv_classif = {
 ## Liste des noms pour classif pixel
 
 ```python
-classes_cl_pixel = [
+classes_classif_pixel = [
     'Autres feuillus',
     'Chêne',
     'Robinier',
@@ -159,4 +159,35 @@ classes_cl_pixel = [
     'Pin maritime'
 ]
 ```
+## Liste des noms pour "Phénologie des peupleuments purs"
+classes en gras dans la colonne classif pixel 
 
+```python
+classes_pplmts_purs = [
+    'Chêne',
+    'Robinier',
+    'Peupleraie',
+    'Douglas',
+    'Pin laricio ou pin noir',
+    'Pin maritime'
+]
+```
+
+## Liste des noms pour analyse de la variabilité spectale
+classes en bleu ou rouge de la colonne "classif objet"
+
+```python
+classes_var_spectale = [
+    'Autres feuillus',
+    'Chêne',
+    'Robinier',
+    'Peupleraie',
+    'Mélange de feuillus',
+    'Douglas',
+    'Pin laricio ou pin noir',
+    'Pin maritime',
+    'Mélange conifères',
+    'Mélange de conifères prépondérants et feuillus',
+    'Mélange de feuillus prépondérants et conifères'
+]
+```
