@@ -142,6 +142,21 @@ map_tfv_classif = {
         'Code': 14
     }
 }
+```
 
+## Liste des noms pour classif pixel
+
+```python
+classes_cl_pixel = [
+    'Autres feuillus',
+    'Chêne',
+    'Robinier',
+    'Peupleraie',
+    'Autres conifères autre que pin',
+    'Autres pin',
+    'Douglas',
+    'Pin laricio ou pin noir',
+    'Pin maritime'
+]
 ```
 
